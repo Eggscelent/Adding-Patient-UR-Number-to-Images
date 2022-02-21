@@ -54,7 +54,7 @@ def urtoimage():
 print(colored("URToImage!", "yellow"))
 print("-"*100)
 print("- This python script was created to simplify the convoluted process of adding UR numbers to images.")
-print("- This script only supports .jpg, .jpeg and .png image formats.")
+print("- This script only supports .jpg, .jpeg and .png image extensions.")
 print("- For support or to suggest changes, please email: jackryder1@live.com.au. Thanks and enjoy! ")
 print("-"*100)
 
