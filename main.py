@@ -44,7 +44,7 @@ def urtoimage():
                                 draw.text((x, y), patient_ur, fill='black', font=font)
 
                                 isoimage.save(path + "/Edited_" + img)
-                                print(colored("UR to Image Successful!.", "green"))
+                                print(colored("UR to Image Successful!", "green"))
                 os.system("pause")
 
         else:
